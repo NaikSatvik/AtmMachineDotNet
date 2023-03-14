@@ -1,0 +1,11 @@
+C:\Users\BAPS\source\repos\AtmMachine\bin\Debug\AtmMachine.exe.config
+C:\Users\BAPS\source\repos\AtmMachine\bin\Debug\AtmMachine.exe
+C:\Users\BAPS\source\repos\AtmMachine\bin\Debug\AtmMachine.pdb
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.csproj.AssemblyReference.cache
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.loginForm.resources
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.atm.resources
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.Properties.Resources.resources
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.csproj.GenerateResource.cache
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.csproj.CoreCompileInputs.cache
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.exe
+C:\Users\BAPS\source\repos\AtmMachine\obj\Debug\AtmMachine.pdb
